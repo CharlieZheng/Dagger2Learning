@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4customannotations/4customannotations.iml" filepath="$PROJECT_DIR$/4customannotations/4customannotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5dependence&amp;subcomponent/5dependence&amp;subcomponent.iml" filepath="$PROJECT_DIR$/5dependence&amp;subcomponent/5dependence&amp;subcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dagger2Learning.iml" filepath="$PROJECT_DIR$/Dagger2Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module&amp;provides/module&amp;provides.iml" filepath="$PROJECT_DIR$/module&amp;provides/module&amp;provides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydaggerdemo/mydaggerdemo.iml" filepath="$PROJECT_DIR$/mydaggerdemo/mydaggerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qualifier&amp;named/qualifier&amp;named.iml" filepath="$PROJECT_DIR$/qualifier&amp;named/qualifier&amp;named.iml" />
+    </modules>
+  </component>
+</project>
