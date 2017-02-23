@@ -19,12 +19,18 @@ public class MainActivity extends AppCompatActivity {
 	@Override
 	protected void onCreate(@Nullable Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+//		getAppComponent().inject(this);
 		setContentView(R.layout.main);
 		btn = (Button) findViewById(R.id.btn);
 		btn.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
-				Toast.makeText(MainActivity.this,person.name, Toast.LENGTH_LONG ).show();
+				if (person == null) {
+
+				Toast.makeText(MainActivity.this,"null", Toast.LENGTH_LONG ).show();
+				}else {
+					Toast.makeText(MainActivity.this, person.name, Toast.LENGTH_LONG).show();
+				}
 			}
 		});
  }
