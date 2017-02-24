@@ -1,1 +1,1 @@
-include ':app', ':module&provides', ':qualifier&named', ':4customannotations', ':5dependence&subcomponent', ':mydaggerdemo'
+include ':app', ':module&provides', ':qualifier&named', ':4customannotations', ':5dependence&subcomponent', ':module&providelearning', ':mydaggerdemo'
