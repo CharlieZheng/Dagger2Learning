@@ -11,7 +11,7 @@ import com.jp.mydaggerdemo.R;
 
 import javax.inject.Inject;
 
-import com.jp.mydaggerdemo.component.DaggerMainActivityComponent;
+import com.jp.mydaggerdemo2.component.DaggerMainActivityComponent;
 import com.jp.mydaggerdemo2.entity.Person;
 
 public class MainActivity extends AppCompatActivity {
