@@ -1,1 +1,10 @@
-include ':app', ':module&provides', ':qualifier&named', ':4customannotations', ':5dependence&subcomponent', ':module&providelearning'
+include ':app',
+        ':module&provides',
+        ':qualifier&named',
+        ':4customannotations',
+        ':5dependence&subcomponent',
+        ':module&providelearning',
+        ':Lazy_Provider',
+        ':Scope',
+        ':Binds1',
+        ':Binds2'

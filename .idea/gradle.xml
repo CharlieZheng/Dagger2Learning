@@ -10,6 +10,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/4customannotations" />
             <option value="$PROJECT_DIR$/5dependence&amp;subcomponent" />
+            <option value="$PROJECT_DIR$/Binds1" />
+            <option value="$PROJECT_DIR$/Binds2" />
+            <option value="$PROJECT_DIR$/Lazy_Provider" />
+            <option value="$PROJECT_DIR$/Scope" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/module&amp;providelearning" />
             <option value="$PROJECT_DIR$/module&amp;provides" />
